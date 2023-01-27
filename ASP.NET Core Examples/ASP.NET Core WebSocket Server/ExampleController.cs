@@ -2,7 +2,7 @@ using System.Net.WebSockets;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ASP.NET_Core_WebSocket;
+namespace ASP.NET_Core_WebSocket_Server;
 
 public class ExampleController: ControllerBase
 {
